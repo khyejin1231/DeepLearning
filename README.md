@@ -1,2 +1,2 @@
 # DeepLearning
-Deep learning assignments
+Deep learning assignments: BOTH h2O and Tensorflow are explored
